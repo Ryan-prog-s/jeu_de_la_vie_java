@@ -7,23 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75956d96-9a66-44ab-8204-2ae793554e96" name="Changes" comment="Create repository for JeuDeLaVie">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/JeuDeLaVie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/MainJeuDeLaVie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/MenuJeuDeLaVie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates_example/JeuDeLaVieClignotantExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates_example/JeuDeLaVieCrapaudExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates_example/JeuDeLaVieHWSSExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates_example/JeuDeLaViePlaneurExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/junit/automates/JeuDeLaVieTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="75956d96-9a66-44ab-8204-2ae793554e96" name="Changes" comment="Add gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,8 +132,23 @@
       <updated>1668526395212</updated>
       <workItem from="1668526396633" duration="1937000" />
       <workItem from="1668621615232" duration="7110000" />
-      <workItem from="1668673175661" duration="19434000" />
+      <workItem from="1668673175661" duration="19675000" />
     </task>
+    <task id="LOCAL-00001" summary="Create repository for JeuDeLaVie">
+      <created>1668697198094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668697198094</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add gitignore">
+      <created>1668697248975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668697248975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create repository for JeuDeLaVie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create repository for JeuDeLaVie" />
+    <MESSAGE value="Add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
   </component>
 </project>
