@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75956d96-9a66-44ab-8204-2ae793554e96" name="Changes" comment="Create repository for JeuDeLaVie">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/JeuDeLaVie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/MainJeuDeLaVie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/MenuJeuDeLaVie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates_example/JeuDeLaVieClignotantExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates_example/JeuDeLaVieCrapaudExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates_example/JeuDeLaVieHWSSExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates_example/JeuDeLaViePlaneurExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/junit/automates/JeuDeLaVieTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Haby6HysAd4oTGTrtm9HTGKJgc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ryang/Dev/sup_de_vinci/java/tp1/demo-logging",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MainJeuDeLaVie">
+    <configuration name="JeuDeLaVie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.sdv.rgu.automates.JeuDeLaVie" />
+      <module name="jeu_de_la_vie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.sdv.rgu.automates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeuDeLaVieCrapaudExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.sdv.rgu.automates_example.JeuDeLaVieCrapaudExample" />
+      <module name="jeu_de_la_vie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.sdv.rgu.automates_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeuDeLaVieHWSSExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.sdv.rgu.automates_example.JeuDeLaVieHWSSExample" />
+      <module name="jeu_de_la_vie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.sdv.rgu.automates_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeuDeLaViePlaneurExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.sdv.rgu.automates_example.JeuDeLaViePlaneurExample" />
+      <module name="jeu_de_la_vie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.sdv.rgu.automates_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainJeuDeLaVie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.sdv.rgu.automates.MainJeuDeLaVie" />
+      <module name="jeu_de_la_vie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.sdv.rgu.automates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainJeuDeLaVie" />
+        <item itemvalue="Application.JeuDeLaVieHWSSExample" />
+        <item itemvalue="Application.JeuDeLaViePlaneurExample" />
+        <item itemvalue="Application.JeuDeLaVie" />
+        <item itemvalue="Application.JeuDeLaVieCrapaudExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75956d96-9a66-44ab-8204-2ae793554e96" name="Changes" comment="" />
+      <created>1668526395212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668526395212</updated>
+      <workItem from="1668526396633" duration="1937000" />
+      <workItem from="1668621615232" duration="7110000" />
+      <workItem from="1668673175661" duration="19434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create repository for JeuDeLaVie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create repository for JeuDeLaVie" />
+  </component>
+</project>
