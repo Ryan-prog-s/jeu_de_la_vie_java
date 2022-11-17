@@ -7,7 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75956d96-9a66-44ab-8204-2ae793554e96" name="Changes" comment="Add gitignore" />
+    <list default="true" id="75956d96-9a66-44ab-8204-2ae793554e96" name="Changes" comment="Add gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/MainJeuDeLaVie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/MainJeuDeLaVie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/MenuJeuDeLaVie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/rgu/automates/MenuJeuDeLaVie.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/ryang/Dev/sup_de_vinci/java/tp1/demo-logging",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -133,6 +138,7 @@
       <workItem from="1668526396633" duration="1937000" />
       <workItem from="1668621615232" duration="7110000" />
       <workItem from="1668673175661" duration="19675000" />
+      <workItem from="1668697465574" duration="3244000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository for JeuDeLaVie">
       <created>1668697198094</created>

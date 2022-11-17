@@ -10,20 +10,21 @@ public class MenuJeuDeLaVie {
     public static int menu(){
         int userChoice;
 
-        Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+        Scanner user = new Scanner(System.in);  // Creation d'un scanner
         System.out.println("Entrez votre nom d'utilisateur :");
 
-        String userName = myObj.nextLine();  // Read user input
-        System.out.println("Bienvenu " + userName + " dans le Jeu de la Vie !");  // Output user input
+        String userName = user.nextLine();  // Lecture de ce qu'a renseigné l'utilisateur
+        System.out.println("Bienvenu " + userName + " dans le Jeu de la Vie !");
 
-        Scanner choice = new Scanner(System.in);
+        Scanner choice = new Scanner(System.in); //Creation d'un autre scanner
+        // Affiche des choix des différents mode de jeu
         System.out.println("Choisissez le mode de jeu : ");
         System.out.println("1 => Aléatoire");
         System.out.println("2 => \"Clignotant\" (Oscillateur)");
         System.out.println("3 => \"Crapaud\" (Oscillateur)");
         System.out.println("4 => \"Planeur\" (Vaisseaux)");
 
-        userChoice = choice.nextInt();
+        userChoice = choice.nextInt(); // Lecture du choix de l'utilisateur
 
         return userChoice;
     }

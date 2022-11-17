@@ -9,13 +9,19 @@ import static java.lang.System.exit;
 public class MainJeuDeLaVie {
     public static void main(String[] args) throws InterruptedException {
 
+        // Nombre de lignes de la grille
         int numberRows = 8;
+        // Nombre de colonnes de la grille
         int numberCols = 8;
+
+        // Creation d'une grille
         JeuDeLaVie currentFigure = new JeuDeLaVie(numberRows, numberCols);
 
+        // Affichage du menu
         int userChoice;
         userChoice = menu();
 
+        // switch permettant d'executer le choix de l'utilisateur
         switch (userChoice) {
             case 1:
                 // Random cells
@@ -57,10 +63,13 @@ public class MainJeuDeLaVie {
                 exit(0);
         }
 
+        //Nombre d'operation a effectuer
         int numberOperation = 5;
         for (int i = 0; i< numberOperation; i++){
             System.out.println("Operation " + i);
+            //Affichage de la grille
             currentFigure.printGrid();
+            //Operation suivant les regles du jeu
             currentFigure.operation();
             TimeUnit.SECONDS.sleep(1);
         }
